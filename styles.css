@@ -25,7 +25,7 @@ body {
   background-size: cover;
 }
 .panel211 {
-  height: 25vh;
+  height: 28vh;
   background-color: #191A19;
 }
 /* .panel212 {
@@ -34,7 +34,7 @@ body {
 } */
 
 .panel201 {
-  height: 22vh;
+  height: 27vh;
     background-color: #1E5128;
 }
 
@@ -351,7 +351,7 @@ body {
     
   }
 .perjalanan_panel3 {
-    height: 100vh;
+    height: 120vh;
     background-color: #191A19;
     /* overscroll-behavior: none; */
     background: url("image/lobi_hotel.png") no-repeat center bottom / cover;
@@ -378,12 +378,12 @@ body {
   /* overscroll-behavior: none; */
 }
 .perjalanan_panel7 {
-  height: 120vh;
+  height: 130vh;
   background-color: #191A19;
   /* overscroll-behavior: none; */
 }
 .perjalanan_panel8 {
-  height: 120vh;
+  height: 140vh;
   background-color: #1E5128;
   /* overscroll-behavior: none; */
 }
@@ -405,12 +405,12 @@ body {
 }
 
 .perjalanan_panel11 {
-  height: 40vh;
+  height: 60vh;
   background-color: #191A19;
   
 }
 .perjalanan_panel12 {
-  height: 40vh;
+  height: 60vh;
   background-color: #1E5128;
   
 }

@@ -92,7 +92,7 @@ ScrollTrigger.create({
   trigger:".panel3",
   start: "center center",
   // endTrigger:"#akhirPanel",
-  end: "+=8000",
+  end: "+=9000",
   pin:true,
   // pinSpacing:false,
   scrub:1,
